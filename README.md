@@ -56,7 +56,7 @@ This ML-driven approach can serve as an early-warning system to identify patient
 
 ## 👤 Author
 
-**Tarun [Your Last Name]**  
+**Tarun Bharat**  
 MCA Student | ML Enthusiast | Researcher in Medical AI  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/bharat71/) | [Email](bharattarun29@email.com)
 
