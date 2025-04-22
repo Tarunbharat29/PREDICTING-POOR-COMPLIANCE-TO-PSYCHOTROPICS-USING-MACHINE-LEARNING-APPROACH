@@ -1,0 +1,133 @@
+,0
+Rural/Urban,6
+Distance from LGBRIMH (in KM),14
+Age at onset(in years),10
+Chief complaint 2,4
+Chief complaint 3,9
+Time period between onset to first consultation at LGBRIMH (DUI) (in days),12
+Developmental history,100
+Detail of past psychiatric history 1,10
+Past treatment 1,8
+Past treatment medication 1,11
+Starting dose past medication 1,8
+Age of starting of past medication 1(in years),21
+Past maintenance dose1 (in mg),14
+Side effects of past medication 1,16
+Age of occurance past side effects 1(in years),14
+Duration of past side effect 1(in months),13
+Response to past medication 1,9
+Detail of past history 2,2
+Past treatment 2,2
+Past treatment medication 2,2
+Starting dose past medication 2,6
+Age of starting of past medication 2(in years),4
+Past maintenance dose2,3
+Side effects of past medication 2,5
+Age of occurance past side effects 2(in years),5
+Duration of past side effect 2(in months),5
+Response to past medication 2,4
+Detail of past history 3,1
+Past treatment  3,1
+Starting dose past medication 3 ,2
+Age of starting past medication 3 (in years),3
+Past maintenance dose 3,2
+Side effects past medication 3,2
+Age of occurance of past side effects 3 (in years),2
+Duration of past side effects 3 (in months),3
+Response to past medication 3,3
+Severity of medical conditions,93
+weight (in Kg),42
+weight z score,75
+systemic examination(abnormal/normal),63
+systemic examination details (main finding only),66
+Mental status examination/Behavioral Observation details (abnormal/normal),30
+Mental status examination/Behavioral observation details (main finding only in description),31
+Screening diagnosis ,14
+"If yes, changed once or multiple times (once/multiple)",6
+"If yes, after how many days from first presentation diagnosis changed (in days)",9
+"If yes, diagnosis changed to what",6
+Axis 1_1,1
+Axis 1_2,1
+Axis 1_3,1
+Axis 1_4,3
+Axis 2,2
+Axis 3,22
+Axis 4_1,5
+Axis 4_2,7
+Axis 4_3,6
+Axis 5,5
+Avg dose of medication 1 (Mode value of medication) (in mg),1
+Maximum dose of medication 1 (in mg),1
+Total duration of medication 1 (in days) ,3
+Continued medication 1/stopped/changed,1
+Side effect of medication 1,3
+onset of side effect post starting med 1 ( in days),4
+total duration of side effect of medication 1 (in days),6
+Medication possession ratios 1(MPRs) in lgb;x-syrup (total number of days when medications were taken divided by summation of total number of days when medications were taken with total off medication period) ,11
+Avg dose of medication 2 (in mg),1
+Maximum dose of medication 2 (in mg),1
+Total duration of medication 2(in days) ,1
+Continued medication 2/stopped/changed,4
+Side effect of medication 2,2
+onset of side effect post starting med 2 ( in days),1
+total duration of side effect of medication 2 (in days),1
+Medication possession ratios 2(MPRs) in lgb;x-syrup,2
+Avg dose of medication 3 (in mg),1
+Maximum dose of medication 3 (in mg),1
+Total duration of medication 3 (in days,2
+continued medication 3/stopped/changed,3
+Response to medication 3 (Good/partial/no),94
+Side effect of medication 3,6
+onset of side effect post starting med 3 ( in days),2
+total duration of side effect of medication 3 (in days),2
+Medication possession ratios 3(MPRs) in lgb;x-syrup,2
+name of Medication 4,1
+Medication 4 starting dose (in mg),1
+Avg dose of medication 4 (in mg),2
+Maximum dose of medication 4 (in mg),3
+Total duration of medication 4 (in days),2
+continued medication 4/stopped/changed,1
+Response to medication 4(Good/partial/no),62
+Side effect of medication 4,3
+onset of side effect post starting med 4 ( in days),2
+total duration of side effect of medication 4 (in days),2
+Medication possession ratios 4(MPRs) in lgb;x-syrup,1
+Total duration of medication 5 (in days),1
+continued medication 5/stopped/changed,3
+Response to medication 5(Good/partial/no),36
+Side effect of medication 5,1
+onset of side effect post starting med 5 ( in days),1
+total duration of side effect of medication 5 (in days),1
+continued medication 6/stopped/changed,2
+Response to medication 6(Good/partial/no),27
+Side effect of medication 6,1
+onset of side effect post starting med 6 ( in days),1
+total duration of side effect of medication 6 (in days),1
+continued medication 7/stopped/changed,3
+Response to medication 7(Good/partial/no),15
+Response to medication 8(Good/partial/no),8
+continued medication 9/stopped/changed,1
+Response to medication 9(Good/partial/no),5
+continued medication 10/stopped/changed,3
+Side effect of medication 10,1
+Medication possession ratios 10(MPRs) in lgb;x-syrup,1
+Response to medication 11(Good/partial/no),2
+continued medication 12/stopped/changed,1
+Response to medication 12(Good/partial/no),2
+continued medication 13/stopped/changed,1
+Response to medication 13(Good/partial/no),1
+continued medication 14/stopped/changed,1
+Response to medication 14(Good/partial/no),1
+cost of medication,6
+"Other treatments(rehabilitative intervention/IT/CBT/ipt/FT/PMT/BEHAVIOURAL INTERVENTIONS FOR DEVELOPMENTAL DISORDERS, Combination therapy)",9
+Maximum duration of symptom free period (in days),9
+Max Duration of resolution of symptoms before recurrence/relapse (in days),5
+No of relapses/exacerbations,6
+Off-medications duration (to add all such durations over follow-up in days),3
+"Compliant to medications (Poor/Satisfactory/Good) (if off medications period is less than 7 days then it is considered as compliant {Poor-loss to follow up, maximum relapses,medication possession ratio < 0.9; Satisfactory- medication possession ratio 0.9 - 0.95, minimal relapse; Good- no relapse, medication possession ratio < 0.95}",21
+mean gap ratio at lgb (total no of months of follow-up divided by no of follow-ups),4
+maximum period of compliance at lgb (in days) (longest streak of good compliance),4
+total duration of medication treatment at LGB(in days) (from first consultation to last follow-up),2
+frequency of follow up at lgb (to write down follow-up dates),1
+total number of follow up at LGBRIMH,2
+Number of In patient cares,1

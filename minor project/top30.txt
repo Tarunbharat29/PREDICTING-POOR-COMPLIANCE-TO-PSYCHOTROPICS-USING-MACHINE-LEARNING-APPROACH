@@ -1,0 +1,1056 @@
+Response to medication 1 (Good/partial/no)
+total number of follow up at LGBRIMH
+Continued medication 1/stopped/changed
+Family environment
+Age at last follow up
+Response to medication 3 (Good/partial/no)
+mean gap ratio at lgb (total no of months of follow-up divided by no of follow-ups)
+continued medication 3/stopped/changed
+frequency of follow up at lgb (to write down follow-up dates)
+total duration of medication treatment at LGB(in days) (from first consultation to last follow-up)
+Rural/Urban
+Response to medication 2 (Good/partial/no)
+weight z score
+Number of In patient cares
+Past treatment medication 1
+Response to medication 6(Good/partial/no)
+Response to medication 4(Good/partial/no)
+Continued medication 2/stopped/changed
+Avg dose of medication 1 (Mode value of medication) (in mg)
+School adjustment
+Response to medication 5(Good/partial/no)
+medication 1 starting dose (in mg)
+Medication 2 starting dose (in mg)
+Brought by
+maximum period of compliance at lgb (in days) (longest streak of good compliance)
+Occupation of parents
+Age of starting of past medication 1(in years)
+Family h/o stillbirth/abortion
+Severity of medical conditions
+continued medication 12/stopped/changed
+detailed workup diagnosis
+School dropout present (yes/no)
+Referral
+Chief complaint 1
+Change in doctor
+Total duration of medication 1 (in days)
+Mental status examination/Behavioral observation details (main finding only in description)
+Medication possession ratios 13(MPRs) in lgb;x-syrup
+Maximum dose of medication 2 (in mg)
+Max Duration of resolution of symptoms before recurrence/relapse (in days)
+Medication possession ratios 2(MPRs) in lgb;x-syrup
+Screening diagnosis
+Medication 6 starting dose
+Maximum duration of symptom free period (in days)
+continued medication 7/stopped/changed
+Distance from LGBRIMH (in KM)
+Side effect of medication 1
+Total duration of medication 2(in days)
+total duration of side effect of medication 6 (in days)
+name of Medication 11
+Medication possession ratios 4(MPRs) in lgb;x-syrup
+onset of side effect post starting med 2 ( in days)
+name of Medication 1
+No of relapses/exacerbations
+If yes, diagnosis changed to what
+Response to past medication 3
+Avg dose of medication 2 (in mg)
+If yes, after how many days from first presentation diagnosis changed (in days)
+Starting dose past medication 1
+Total duration of medication 10
+Medication 8 starting dose
+Religion
+Total duration of medication 13
+Maximum dose of medication 8
+Age of onset of medical conditions (in years)
+onset of side effect post starting med 7 ( in days)
+Continued medication 8/stopped/changed
+Age at presentation (in yrs)
+If yes, changed once or multiple times (once/multiple)
+Medication 12 starting dose
+Medication 13 starting dose
+Axis 3
+Past maintenance dose1 (in mg)
+total duration of side effect of medication 7 (in days)
+Maximum dose of medication 1 (in mg)
+continued medication 4/stopped/changed
+Maximum dose of medication 6
+Details of family abnormality (describe)
+Medication possession ratios 1(MPRs) in lgb;x-syrup (total number of days when medications were taken divided by summation of total number of days when medications were taken with total off medication period)
+onset of side effect post starting med 1 ( in days)
+Axis 5
+total duration of side effect of medication 1 (in days)
+onset of side effect post starting med 6 ( in days)
+Starting dose past medication 2
+height (in cm)
+continued medication 5/stopped/changed
+Side effect of medication 4
+Past/Current medical conditions
+Medication 7 starting dose
+Other treatments(rehabilitative intervention/IT/CBT/ipt/FT/PMT/BEHAVIOURAL INTERVENTIONS FOR DEVELOPMENTAL DISORDERS, Combination therapy)
+Chief complaint 3
+Axis 4_3
+name of Medication 7
+Age at onset(in years)
+Treatments for medical conditions
+Type of school
+name of Medication 14
+Response to medication 8(Good/partial/no)
+Education at presentation (Primary 1 to 5, High school 6-10, higher secondary 11 and 12)
+total duration of side effect of medication 5 (in days)
+Duration of past side effects 3 (in months)
+name of Medication 2
+continued medication 6/stopped/changed
+Axis 4_2
+Response to medication 10(Good/partial/no)
+Total duration of medication 14
+Medication 14 starting dose
+Side effect of medication 7
+Past treatment  3
+cost of medication
+Axis 1_1
+Past treatment 1
+continued medication 14/stopped/changed
+name of Medication 4
+Family history(general medical)
+Side effects of past medication 1
+Chief complaint 2
+Maximum dose of medication 14
+Follow up diagnosis changed or not (yes/no)
+Side effects past medication 3
+Avg dose of medication 13
+Medication possession ratios 3(MPRs) in lgb;x-syrup
+Medication possession ratios 14(MPRs) in lgb;x-syrup
+Avg dose of medication 14
+name of Medication 13
+Maximum dose of medication 13
+Side effect of medication 14
+Axis 4_1
+Maximum dose of medication 12
+Total duration of medication 11
+Off-medications duration (to add all such durations over follow-up in days)
+Response to medication 12(Good/partial/no)
+name of Medication 9
+Maximum dose of medication 7
+Starting dose past medication 3
+Total duration of medication 12
+Medication 10 starting dose
+Total duration of medication 9
+Past treatment medication 3
+head circumference z score
+systemic examination(abnormal/normal)
+Details of medical conditions
+Medication possession ratios 10(MPRs) in lgb;x-syrup
+Avg dose of medication 7
+Response to past medication 1
+Total duration of medication 4 (in days)
+head circumference (in cm)
+Total duration of medication 6
+Duration of past side effect 1(in months)
+Maximum dose of medication 3 (in mg)
+Response to medication 11(Good/partial/no)
+Type of Family (Nuclear/Joint/single parent/orphan/ foster family
+Maximum dose of medication 5(in mg)
+Socioeconomic status
+Past maintenance dose2
+total duration of side effect of medication 2 (in days)
+Family history (psychiatric/neurological)
+Detail of past psychiatric history 1
+Time period between onset to first consultation at LGBRIMH (DUI) (in days)
+Medication possession ratios 9(MPRs) in lgb;x-syrup
+Past treatment medication 2
+Avg dose of medication 6
+name of Medication 8
+Academic performance
+Age of school entry(in years)
+Duration of past side effect 2(in months)
+continued medication 10/stopped/changed
+Birth weight(in kg)
+Side effect of medication 6
+Total duration of medication 8
+Past maintenance dose 3
+Avg dose of medication 4 (in mg)
+Maximum dose of medication 4 (in mg)
+Place of delivery (Home/hospital)
+Axis 1_4
+Response to medication 13(Good/partial/no)
+Side effect of medication 2
+Total duration of medication 3 (in days
+Medication possession ratios 12(MPRs) in lgb;x-syrup
+Side effect of medication 5
+Medication 11 starting dose
+Max education attained
+Age of occurance past side effects 1(in years)
+continued medication 13/stopped/changed
+Antenatal risk factor
+systemic examination details (main finding only)
+Side effects of past medication 2
+Medication possession ratios 6(MPRs) in lgb;x-syrup
+Past treatment 2
+name of Medication 3
+Age of occurance of past side effects 3 (in years)
+total duration of side effect of medication 4 (in days)
+Avg dose of medication 8
+Medication possession ratios 5(MPRs) in lgb;x-syrup
+continued medication 11/stopped/changed
+height z score
+Medication possession ratios 8(MPRs) in lgb;x-syrup
+Total duration of medication 7
+Avg dose of medication 9
+weight (in Kg)
+onset of side effect post starting med 3 ( in days)
+name of Medication 12
+Avg dose of medication 12
+Medication 4 starting dose (in mg)
+Medication 3 starting dose (in mg)
+Neonatal complication
+Axis 2
+total duration of side effect of medication 3 (in days)
+Axis 1_2
+Faith healer visited before consultation or not(yes/no)
+onset of side effect post starting med 5 ( in days)
+Medication possession ratios 11(MPRs) in lgb;x-syrup
+Axis 1_3
+Avg dose of medication 3 (in mg)
+Maximum dose of medication 11
+Developmental history
+Avg dose of medication 11
+Detail of past history 3
+Response to past medication 2
+Medication 5 starting dose (in mg)
+Age of occurance past side effects 2(in years)
+Sex (m/f)
+name of Medication 10
+significant psychosocial stressor
+Avg dose of medication 10
+Response to medication 7(Good/partial/no)
+Mental status examination/Behavioral Observation details (abnormal/normal)
+Side effect of medication 3
+Medication possession ratios 7(MPRs) in lgb;x-syrup
+Maximum dose of medication 10
+continued medication 9/stopped/changed
+Total duration of medication 5 (in days)
+Avg dose of medication 5 (in mg)
+Postnatal complication
+Response to medication 9(Good/partial/no)
+Age of starting of past medication 2(in years)
+Detail of past history 2
+Medication 9 starting dose
+name of Medication 6
+Maximum dose of medication 9
+Side effect of medication 10
+name of Medication 5
+Age of starting past medication 3 (in years)
+Response to medication 14(Good/partial/no)
+onset of side effect post starting med 4 ( in days)
+Side effect of medication 8
+onset of side effect post starting med 8 ( in days)
+total duration of side effect of medication 8 (in days)
+Side effect of medication 9
+onset of side effect post starting med 9 ( in days)
+total duration of side effect of medication 9 (in days)
+onset of side effect post starting med 10 ( in days)
+total duration of side effect of medication 10 (in days)
+Side effect of medication 11
+onset of side effect post starting med 11 ( in days)
+total duration of side effect of medication 11 (in days)
+Side effect of medication 12
+onset of side effect post starting med 12 ( in days)
+total duration of side effect of medication 12 (in days)
+Side effect of medication 13
+onset of side effect post starting med 13 ( in days)
+total duration of side effect of medication 13 (in days)
+onset of side effect post starting med 14 ( in days)
+total duration of side effect of medication 14 (in days)
+Response to medication 1 (Good/partial/no)
+total number of follow up at LGBRIMH
+Continued medication 1/stopped/changed
+Family environment
+Age at last follow up
+Response to medication 3 (Good/partial/no)
+mean gap ratio at lgb (total no of months of follow-up divided by no of follow-ups)
+continued medication 3/stopped/changed
+frequency of follow up at lgb (to write down follow-up dates)
+total duration of medication treatment at LGB(in days) (from first consultation to last follow-up)
+Rural/Urban
+Response to medication 2 (Good/partial/no)
+weight z score
+Number of In patient cares
+Past treatment medication 1
+Response to medication 6(Good/partial/no)
+Response to medication 4(Good/partial/no)
+Continued medication 2/stopped/changed
+Avg dose of medication 1 (Mode value of medication) (in mg)
+School adjustment
+Response to medication 5(Good/partial/no)
+medication 1 starting dose (in mg)
+Medication 2 starting dose (in mg)
+Brought by
+maximum period of compliance at lgb (in days) (longest streak of good compliance)
+Occupation of parents
+Age of starting of past medication 1(in years)
+Family h/o stillbirth/abortion
+Severity of medical conditions
+continued medication 12/stopped/changed
+detailed workup diagnosis
+School dropout present (yes/no)
+Referral
+Chief complaint 1
+Change in doctor
+Total duration of medication 1 (in days)
+Mental status examination/Behavioral observation details (main finding only in description)
+Medication possession ratios 13(MPRs) in lgb;x-syrup
+Maximum dose of medication 2 (in mg)
+Max Duration of resolution of symptoms before recurrence/relapse (in days)
+Medication possession ratios 2(MPRs) in lgb;x-syrup
+Screening diagnosis
+Medication 6 starting dose
+Maximum duration of symptom free period (in days)
+continued medication 7/stopped/changed
+Distance from LGBRIMH (in KM)
+Side effect of medication 1
+Total duration of medication 2(in days)
+total duration of side effect of medication 6 (in days)
+name of Medication 11
+Medication possession ratios 4(MPRs) in lgb;x-syrup
+onset of side effect post starting med 2 ( in days)
+name of Medication 1
+No of relapses/exacerbations
+If yes, diagnosis changed to what
+Response to past medication 3
+Avg dose of medication 2 (in mg)
+If yes, after how many days from first presentation diagnosis changed (in days)
+Starting dose past medication 1
+Total duration of medication 10
+Medication 8 starting dose
+Religion
+Total duration of medication 13
+Maximum dose of medication 8
+Age of onset of medical conditions (in years)
+onset of side effect post starting med 7 ( in days)
+Continued medication 8/stopped/changed
+Age at presentation (in yrs)
+If yes, changed once or multiple times (once/multiple)
+Medication 12 starting dose
+Medication 13 starting dose
+Axis 3
+Past maintenance dose1 (in mg)
+total duration of side effect of medication 7 (in days)
+Maximum dose of medication 1 (in mg)
+continued medication 4/stopped/changed
+Maximum dose of medication 6
+Details of family abnormality (describe)
+Medication possession ratios 1(MPRs) in lgb;x-syrup (total number of days when medications were taken divided by summation of total number of days when medications were taken with total off medication period)
+onset of side effect post starting med 1 ( in days)
+Axis 5
+total duration of side effect of medication 1 (in days)
+onset of side effect post starting med 6 ( in days)
+Starting dose past medication 2
+height (in cm)
+continued medication 5/stopped/changed
+Side effect of medication 4
+Past/Current medical conditions
+Medication 7 starting dose
+Other treatments(rehabilitative intervention/IT/CBT/ipt/FT/PMT/BEHAVIOURAL INTERVENTIONS FOR DEVELOPMENTAL DISORDERS, Combination therapy)
+Chief complaint 3
+Axis 4_3
+name of Medication 7
+Age at onset(in years)
+Treatments for medical conditions
+Type of school
+name of Medication 14
+Response to medication 8(Good/partial/no)
+Education at presentation (Primary 1 to 5, High school 6-10, higher secondary 11 and 12)
+total duration of side effect of medication 5 (in days)
+Duration of past side effects 3 (in months)
+name of Medication 2
+continued medication 6/stopped/changed
+Axis 4_2
+Response to medication 10(Good/partial/no)
+Total duration of medication 14
+Medication 14 starting dose
+Side effect of medication 7
+Past treatment  3
+cost of medication
+Axis 1_1
+Past treatment 1
+continued medication 14/stopped/changed
+name of Medication 4
+Family history(general medical)
+Side effects of past medication 1
+Chief complaint 2
+Maximum dose of medication 14
+Follow up diagnosis changed or not (yes/no)
+Side effects past medication 3
+Avg dose of medication 13
+Medication possession ratios 3(MPRs) in lgb;x-syrup
+Medication possession ratios 14(MPRs) in lgb;x-syrup
+Avg dose of medication 14
+name of Medication 13
+Maximum dose of medication 13
+Side effect of medication 14
+Axis 4_1
+Maximum dose of medication 12
+Total duration of medication 11
+Off-medications duration (to add all such durations over follow-up in days)
+Response to medication 12(Good/partial/no)
+name of Medication 9
+Maximum dose of medication 7
+Starting dose past medication 3
+Total duration of medication 12
+Medication 10 starting dose
+Total duration of medication 9
+Past treatment medication 3
+head circumference z score
+systemic examination(abnormal/normal)
+Details of medical conditions
+Medication possession ratios 10(MPRs) in lgb;x-syrup
+Avg dose of medication 7
+Response to past medication 1
+Total duration of medication 4 (in days)
+head circumference (in cm)
+Total duration of medication 6
+Duration of past side effect 1(in months)
+Maximum dose of medication 3 (in mg)
+Response to medication 11(Good/partial/no)
+Type of Family (Nuclear/Joint/single parent/orphan/ foster family
+Maximum dose of medication 5(in mg)
+Socioeconomic status
+Past maintenance dose2
+total duration of side effect of medication 2 (in days)
+Family history (psychiatric/neurological)
+Detail of past psychiatric history 1
+Time period between onset to first consultation at LGBRIMH (DUI) (in days)
+Medication possession ratios 9(MPRs) in lgb;x-syrup
+Past treatment medication 2
+Avg dose of medication 6
+name of Medication 8
+Academic performance
+Age of school entry(in years)
+Duration of past side effect 2(in months)
+continued medication 10/stopped/changed
+Birth weight(in kg)
+Side effect of medication 6
+Total duration of medication 8
+Past maintenance dose 3
+Avg dose of medication 4 (in mg)
+Maximum dose of medication 4 (in mg)
+Place of delivery (Home/hospital)
+Axis 1_4
+Response to medication 13(Good/partial/no)
+Side effect of medication 2
+Total duration of medication 3 (in days
+Medication possession ratios 12(MPRs) in lgb;x-syrup
+Side effect of medication 5
+Medication 11 starting dose
+Max education attained
+Age of occurance past side effects 1(in years)
+continued medication 13/stopped/changed
+Antenatal risk factor
+systemic examination details (main finding only)
+Side effects of past medication 2
+Medication possession ratios 6(MPRs) in lgb;x-syrup
+Past treatment 2
+name of Medication 3
+Age of occurance of past side effects 3 (in years)
+total duration of side effect of medication 4 (in days)
+Avg dose of medication 8
+Medication possession ratios 5(MPRs) in lgb;x-syrup
+continued medication 11/stopped/changed
+height z score
+Medication possession ratios 8(MPRs) in lgb;x-syrup
+Total duration of medication 7
+Avg dose of medication 9
+weight (in Kg)
+onset of side effect post starting med 3 ( in days)
+name of Medication 12
+Avg dose of medication 12
+Medication 4 starting dose (in mg)
+Medication 3 starting dose (in mg)
+Neonatal complication
+Axis 2
+total duration of side effect of medication 3 (in days)
+Axis 1_2
+Faith healer visited before consultation or not(yes/no)
+onset of side effect post starting med 5 ( in days)
+Medication possession ratios 11(MPRs) in lgb;x-syrup
+Axis 1_3
+Avg dose of medication 3 (in mg)
+Maximum dose of medication 11
+Developmental history
+Avg dose of medication 11
+Detail of past history 3
+Response to past medication 2
+Medication 5 starting dose (in mg)
+Age of occurance past side effects 2(in years)
+Sex (m/f)
+name of Medication 10
+significant psychosocial stressor
+Avg dose of medication 10
+Response to medication 7(Good/partial/no)
+Mental status examination/Behavioral Observation details (abnormal/normal)
+Side effect of medication 3
+Medication possession ratios 7(MPRs) in lgb;x-syrup
+Maximum dose of medication 10
+continued medication 9/stopped/changed
+Total duration of medication 5 (in days)
+Avg dose of medication 5 (in mg)
+Postnatal complication
+Response to medication 9(Good/partial/no)
+Age of starting of past medication 2(in years)
+Detail of past history 2
+Medication 9 starting dose
+name of Medication 6
+Maximum dose of medication 9
+Side effect of medication 10
+name of Medication 5
+Age of starting past medication 3 (in years)
+Response to medication 14(Good/partial/no)
+onset of side effect post starting med 4 ( in days)
+Side effect of medication 8
+onset of side effect post starting med 8 ( in days)
+total duration of side effect of medication 8 (in days)
+Side effect of medication 9
+onset of side effect post starting med 9 ( in days)
+total duration of side effect of medication 9 (in days)
+onset of side effect post starting med 10 ( in days)
+total duration of side effect of medication 10 (in days)
+Side effect of medication 11
+onset of side effect post starting med 11 ( in days)
+total duration of side effect of medication 11 (in days)
+Side effect of medication 12
+onset of side effect post starting med 12 ( in days)
+total duration of side effect of medication 12 (in days)
+Side effect of medication 13
+onset of side effect post starting med 13 ( in days)
+total duration of side effect of medication 13 (in days)
+onset of side effect post starting med 14 ( in days)
+total duration of side effect of medication 14 (in days)
+Response to medication 1 (Good/partial/no)
+total number of follow up at LGBRIMH
+Continued medication 1/stopped/changed
+Family environment
+Age at last follow up
+Response to medication 3 (Good/partial/no)
+mean gap ratio at lgb (total no of months of follow-up divided by no of follow-ups)
+continued medication 3/stopped/changed
+frequency of follow up at lgb (to write down follow-up dates)
+total duration of medication treatment at LGB(in days) (from first consultation to last follow-up)
+Rural/Urban
+Response to medication 2 (Good/partial/no)
+weight z score
+Number of In patient cares
+Past treatment medication 1
+Response to medication 6(Good/partial/no)
+Response to medication 4(Good/partial/no)
+Continued medication 2/stopped/changed
+Avg dose of medication 1 (Mode value of medication) (in mg)
+School adjustment
+Response to medication 5(Good/partial/no)
+medication 1 starting dose (in mg)
+Medication 2 starting dose (in mg)
+Brought by
+maximum period of compliance at lgb (in days) (longest streak of good compliance)
+Occupation of parents
+Age of starting of past medication 1(in years)
+Family h/o stillbirth/abortion
+Severity of medical conditions
+continued medication 12/stopped/changed
+detailed workup diagnosis
+School dropout present (yes/no)
+Referral
+Chief complaint 1
+Change in doctor
+Total duration of medication 1 (in days)
+Mental status examination/Behavioral observation details (main finding only in description)
+Medication possession ratios 13(MPRs) in lgb;x-syrup
+Maximum dose of medication 2 (in mg)
+Max Duration of resolution of symptoms before recurrence/relapse (in days)
+Medication possession ratios 2(MPRs) in lgb;x-syrup
+Screening diagnosis
+Medication 6 starting dose
+Maximum duration of symptom free period (in days)
+continued medication 7/stopped/changed
+Distance from LGBRIMH (in KM)
+Side effect of medication 1
+Total duration of medication 2(in days)
+total duration of side effect of medication 6 (in days)
+name of Medication 11
+Medication possession ratios 4(MPRs) in lgb;x-syrup
+onset of side effect post starting med 2 ( in days)
+name of Medication 1
+No of relapses/exacerbations
+If yes, diagnosis changed to what
+Response to past medication 3
+Avg dose of medication 2 (in mg)
+If yes, after how many days from first presentation diagnosis changed (in days)
+Starting dose past medication 1
+Total duration of medication 10
+Medication 8 starting dose
+Religion
+Total duration of medication 13
+Maximum dose of medication 8
+Age of onset of medical conditions (in years)
+onset of side effect post starting med 7 ( in days)
+Continued medication 8/stopped/changed
+Age at presentation (in yrs)
+If yes, changed once or multiple times (once/multiple)
+Medication 12 starting dose
+Medication 13 starting dose
+Axis 3
+Past maintenance dose1 (in mg)
+total duration of side effect of medication 7 (in days)
+Maximum dose of medication 1 (in mg)
+continued medication 4/stopped/changed
+Maximum dose of medication 6
+Details of family abnormality (describe)
+Medication possession ratios 1(MPRs) in lgb;x-syrup (total number of days when medications were taken divided by summation of total number of days when medications were taken with total off medication period)
+onset of side effect post starting med 1 ( in days)
+Axis 5
+total duration of side effect of medication 1 (in days)
+onset of side effect post starting med 6 ( in days)
+Starting dose past medication 2
+height (in cm)
+continued medication 5/stopped/changed
+Side effect of medication 4
+Past/Current medical conditions
+Medication 7 starting dose
+Other treatments(rehabilitative intervention/IT/CBT/ipt/FT/PMT/BEHAVIOURAL INTERVENTIONS FOR DEVELOPMENTAL DISORDERS, Combination therapy)
+Chief complaint 3
+Axis 4_3
+name of Medication 7
+Age at onset(in years)
+Treatments for medical conditions
+Type of school
+name of Medication 14
+Response to medication 8(Good/partial/no)
+Education at presentation (Primary 1 to 5, High school 6-10, higher secondary 11 and 12)
+total duration of side effect of medication 5 (in days)
+Duration of past side effects 3 (in months)
+name of Medication 2
+continued medication 6/stopped/changed
+Axis 4_2
+Response to medication 10(Good/partial/no)
+Total duration of medication 14
+Medication 14 starting dose
+Side effect of medication 7
+Past treatment  3
+cost of medication
+Axis 1_1
+Past treatment 1
+continued medication 14/stopped/changed
+name of Medication 4
+Family history(general medical)
+Side effects of past medication 1
+Chief complaint 2
+Maximum dose of medication 14
+Follow up diagnosis changed or not (yes/no)
+Side effects past medication 3
+Avg dose of medication 13
+Medication possession ratios 3(MPRs) in lgb;x-syrup
+Medication possession ratios 14(MPRs) in lgb;x-syrup
+Avg dose of medication 14
+name of Medication 13
+Maximum dose of medication 13
+Side effect of medication 14
+Axis 4_1
+Maximum dose of medication 12
+Total duration of medication 11
+Off-medications duration (to add all such durations over follow-up in days)
+Response to medication 12(Good/partial/no)
+name of Medication 9
+Maximum dose of medication 7
+Starting dose past medication 3
+Total duration of medication 12
+Medication 10 starting dose
+Total duration of medication 9
+Past treatment medication 3
+head circumference z score
+systemic examination(abnormal/normal)
+Details of medical conditions
+Medication possession ratios 10(MPRs) in lgb;x-syrup
+Avg dose of medication 7
+Response to past medication 1
+Total duration of medication 4 (in days)
+head circumference (in cm)
+Total duration of medication 6
+Duration of past side effect 1(in months)
+Maximum dose of medication 3 (in mg)
+Response to medication 11(Good/partial/no)
+Type of Family (Nuclear/Joint/single parent/orphan/ foster family
+Maximum dose of medication 5(in mg)
+Socioeconomic status
+Past maintenance dose2
+total duration of side effect of medication 2 (in days)
+Family history (psychiatric/neurological)
+Detail of past psychiatric history 1
+Time period between onset to first consultation at LGBRIMH (DUI) (in days)
+Medication possession ratios 9(MPRs) in lgb;x-syrup
+Past treatment medication 2
+Avg dose of medication 6
+name of Medication 8
+Academic performance
+Age of school entry(in years)
+Duration of past side effect 2(in months)
+continued medication 10/stopped/changed
+Birth weight(in kg)
+Side effect of medication 6
+Total duration of medication 8
+Past maintenance dose 3
+Avg dose of medication 4 (in mg)
+Maximum dose of medication 4 (in mg)
+Place of delivery (Home/hospital)
+Axis 1_4
+Response to medication 13(Good/partial/no)
+Side effect of medication 2
+Total duration of medication 3 (in days
+Medication possession ratios 12(MPRs) in lgb;x-syrup
+Side effect of medication 5
+Medication 11 starting dose
+Max education attained
+Age of occurance past side effects 1(in years)
+continued medication 13/stopped/changed
+Antenatal risk factor
+systemic examination details (main finding only)
+Side effects of past medication 2
+Medication possession ratios 6(MPRs) in lgb;x-syrup
+Past treatment 2
+name of Medication 3
+Age of occurance of past side effects 3 (in years)
+total duration of side effect of medication 4 (in days)
+Avg dose of medication 8
+Medication possession ratios 5(MPRs) in lgb;x-syrup
+continued medication 11/stopped/changed
+height z score
+Medication possession ratios 8(MPRs) in lgb;x-syrup
+Total duration of medication 7
+Avg dose of medication 9
+weight (in Kg)
+onset of side effect post starting med 3 ( in days)
+name of Medication 12
+Avg dose of medication 12
+Medication 4 starting dose (in mg)
+Medication 3 starting dose (in mg)
+Neonatal complication
+Axis 2
+total duration of side effect of medication 3 (in days)
+Axis 1_2
+Faith healer visited before consultation or not(yes/no)
+onset of side effect post starting med 5 ( in days)
+Medication possession ratios 11(MPRs) in lgb;x-syrup
+Axis 1_3
+Avg dose of medication 3 (in mg)
+Maximum dose of medication 11
+Developmental history
+Avg dose of medication 11
+Detail of past history 3
+Response to past medication 2
+Medication 5 starting dose (in mg)
+Age of occurance past side effects 2(in years)
+Sex (m/f)
+name of Medication 10
+significant psychosocial stressor
+Avg dose of medication 10
+Response to medication 7(Good/partial/no)
+Mental status examination/Behavioral Observation details (abnormal/normal)
+Side effect of medication 3
+Medication possession ratios 7(MPRs) in lgb;x-syrup
+Maximum dose of medication 10
+continued medication 9/stopped/changed
+Total duration of medication 5 (in days)
+Avg dose of medication 5 (in mg)
+Postnatal complication
+Response to medication 9(Good/partial/no)
+Age of starting of past medication 2(in years)
+Detail of past history 2
+Medication 9 starting dose
+name of Medication 6
+Maximum dose of medication 9
+Side effect of medication 10
+name of Medication 5
+Age of starting past medication 3 (in years)
+Response to medication 14(Good/partial/no)
+onset of side effect post starting med 4 ( in days)
+Side effect of medication 8
+onset of side effect post starting med 8 ( in days)
+total duration of side effect of medication 8 (in days)
+Side effect of medication 9
+onset of side effect post starting med 9 ( in days)
+total duration of side effect of medication 9 (in days)
+onset of side effect post starting med 10 ( in days)
+total duration of side effect of medication 10 (in days)
+Side effect of medication 11
+onset of side effect post starting med 11 ( in days)
+total duration of side effect of medication 11 (in days)
+Side effect of medication 12
+onset of side effect post starting med 12 ( in days)
+total duration of side effect of medication 12 (in days)
+Side effect of medication 13
+onset of side effect post starting med 13 ( in days)
+total duration of side effect of medication 13 (in days)
+onset of side effect post starting med 14 ( in days)
+total duration of side effect of medication 14 (in days)
+Response to medication 1 (Good/partial/no)
+total number of follow up at LGBRIMH
+Continued medication 1/stopped/changed
+Family environment
+Age at last follow up
+Response to medication 3 (Good/partial/no)
+mean gap ratio at lgb (total no of months of follow-up divided by no of follow-ups)
+continued medication 3/stopped/changed
+frequency of follow up at lgb (to write down follow-up dates)
+total duration of medication treatment at LGB(in days) (from first consultation to last follow-up)
+Rural/Urban
+Response to medication 2 (Good/partial/no)
+weight z score
+Number of In patient cares
+Past treatment medication 1
+Response to medication 6(Good/partial/no)
+Response to medication 4(Good/partial/no)
+Continued medication 2/stopped/changed
+Avg dose of medication 1 (Mode value of medication) (in mg)
+School adjustment
+Response to medication 5(Good/partial/no)
+medication 1 starting dose (in mg)
+Medication 2 starting dose (in mg)
+Brought by
+maximum period of compliance at lgb (in days) (longest streak of good compliance)
+Occupation of parents
+Age of starting of past medication 1(in years)
+Family h/o stillbirth/abortion
+Severity of medical conditions
+continued medication 12/stopped/changed
+detailed workup diagnosis
+School dropout present (yes/no)
+Referral
+Chief complaint 1
+Change in doctor
+Total duration of medication 1 (in days)
+Mental status examination/Behavioral observation details (main finding only in description)
+Medication possession ratios 13(MPRs) in lgb;x-syrup
+Maximum dose of medication 2 (in mg)
+Max Duration of resolution of symptoms before recurrence/relapse (in days)
+Medication possession ratios 2(MPRs) in lgb;x-syrup
+Screening diagnosis
+Medication 6 starting dose
+Maximum duration of symptom free period (in days)
+continued medication 7/stopped/changed
+Distance from LGBRIMH (in KM)
+Side effect of medication 1
+Total duration of medication 2(in days)
+total duration of side effect of medication 6 (in days)
+name of Medication 11
+Medication possession ratios 4(MPRs) in lgb;x-syrup
+onset of side effect post starting med 2 ( in days)
+name of Medication 1
+No of relapses/exacerbations
+If yes, diagnosis changed to what
+Response to past medication 3
+Avg dose of medication 2 (in mg)
+If yes, after how many days from first presentation diagnosis changed (in days)
+Starting dose past medication 1
+Total duration of medication 10
+Medication 8 starting dose
+Religion
+Total duration of medication 13
+Maximum dose of medication 8
+Age of onset of medical conditions (in years)
+onset of side effect post starting med 7 ( in days)
+Continued medication 8/stopped/changed
+Age at presentation (in yrs)
+If yes, changed once or multiple times (once/multiple)
+Medication 12 starting dose
+Medication 13 starting dose
+Axis 3
+Past maintenance dose1 (in mg)
+total duration of side effect of medication 7 (in days)
+Maximum dose of medication 1 (in mg)
+continued medication 4/stopped/changed
+Maximum dose of medication 6
+Details of family abnormality (describe)
+Medication possession ratios 1(MPRs) in lgb;x-syrup (total number of days when medications were taken divided by summation of total number of days when medications were taken with total off medication period)
+onset of side effect post starting med 1 ( in days)
+Axis 5
+total duration of side effect of medication 1 (in days)
+onset of side effect post starting med 6 ( in days)
+Starting dose past medication 2
+height (in cm)
+continued medication 5/stopped/changed
+Side effect of medication 4
+Past/Current medical conditions
+Medication 7 starting dose
+Other treatments(rehabilitative intervention/IT/CBT/ipt/FT/PMT/BEHAVIOURAL INTERVENTIONS FOR DEVELOPMENTAL DISORDERS, Combination therapy)
+Chief complaint 3
+Axis 4_3
+name of Medication 7
+Age at onset(in years)
+Treatments for medical conditions
+Type of school
+name of Medication 14
+Response to medication 8(Good/partial/no)
+Education at presentation (Primary 1 to 5, High school 6-10, higher secondary 11 and 12)
+total duration of side effect of medication 5 (in days)
+Duration of past side effects 3 (in months)
+name of Medication 2
+continued medication 6/stopped/changed
+Axis 4_2
+Response to medication 10(Good/partial/no)
+Total duration of medication 14
+Medication 14 starting dose
+Side effect of medication 7
+Past treatment  3
+cost of medication
+Axis 1_1
+Past treatment 1
+continued medication 14/stopped/changed
+name of Medication 4
+Family history(general medical)
+Side effects of past medication 1
+Chief complaint 2
+Maximum dose of medication 14
+Follow up diagnosis changed or not (yes/no)
+Side effects past medication 3
+Avg dose of medication 13
+Medication possession ratios 3(MPRs) in lgb;x-syrup
+Medication possession ratios 14(MPRs) in lgb;x-syrup
+Avg dose of medication 14
+name of Medication 13
+Maximum dose of medication 13
+Side effect of medication 14
+Axis 4_1
+Maximum dose of medication 12
+Total duration of medication 11
+Off-medications duration (to add all such durations over follow-up in days)
+Response to medication 12(Good/partial/no)
+name of Medication 9
+Maximum dose of medication 7
+Starting dose past medication 3
+Total duration of medication 12
+Medication 10 starting dose
+Total duration of medication 9
+Past treatment medication 3
+head circumference z score
+systemic examination(abnormal/normal)
+Details of medical conditions
+Medication possession ratios 10(MPRs) in lgb;x-syrup
+Avg dose of medication 7
+Response to past medication 1
+Total duration of medication 4 (in days)
+head circumference (in cm)
+Total duration of medication 6
+Duration of past side effect 1(in months)
+Maximum dose of medication 3 (in mg)
+Response to medication 11(Good/partial/no)
+Type of Family (Nuclear/Joint/single parent/orphan/ foster family
+Maximum dose of medication 5(in mg)
+Socioeconomic status
+Past maintenance dose2
+total duration of side effect of medication 2 (in days)
+Family history (psychiatric/neurological)
+Detail of past psychiatric history 1
+Time period between onset to first consultation at LGBRIMH (DUI) (in days)
+Medication possession ratios 9(MPRs) in lgb;x-syrup
+Past treatment medication 2
+Avg dose of medication 6
+name of Medication 8
+Academic performance
+Age of school entry(in years)
+Duration of past side effect 2(in months)
+continued medication 10/stopped/changed
+Birth weight(in kg)
+Side effect of medication 6
+Total duration of medication 8
+Past maintenance dose 3
+Avg dose of medication 4 (in mg)
+Maximum dose of medication 4 (in mg)
+Place of delivery (Home/hospital)
+Axis 1_4
+Response to medication 13(Good/partial/no)
+Side effect of medication 2
+Total duration of medication 3 (in days
+Medication possession ratios 12(MPRs) in lgb;x-syrup
+Side effect of medication 5
+Medication 11 starting dose
+Max education attained
+Age of occurance past side effects 1(in years)
+continued medication 13/stopped/changed
+Antenatal risk factor
+systemic examination details (main finding only)
+Side effects of past medication 2
+Medication possession ratios 6(MPRs) in lgb;x-syrup
+Past treatment 2
+name of Medication 3
+Age of occurance of past side effects 3 (in years)
+total duration of side effect of medication 4 (in days)
+Avg dose of medication 8
+Medication possession ratios 5(MPRs) in lgb;x-syrup
+continued medication 11/stopped/changed
+height z score
+Medication possession ratios 8(MPRs) in lgb;x-syrup
+Total duration of medication 7
+Avg dose of medication 9
+weight (in Kg)
+onset of side effect post starting med 3 ( in days)
+name of Medication 12
+Avg dose of medication 12
+Medication 4 starting dose (in mg)
+Medication 3 starting dose (in mg)
+Neonatal complication
+Axis 2
+total duration of side effect of medication 3 (in days)
+Axis 1_2
+Faith healer visited before consultation or not(yes/no)
+onset of side effect post starting med 5 ( in days)
+Medication possession ratios 11(MPRs) in lgb;x-syrup
+Axis 1_3
+Avg dose of medication 3 (in mg)
+Maximum dose of medication 11
+Developmental history
+Avg dose of medication 11
+Detail of past history 3
+Response to past medication 2
+Medication 5 starting dose (in mg)
+Age of occurance past side effects 2(in years)
+Sex (m/f)
+name of Medication 10
+significant psychosocial stressor
+Avg dose of medication 10
+Response to medication 7(Good/partial/no)
+Mental status examination/Behavioral Observation details (abnormal/normal)
+Side effect of medication 3
+Medication possession ratios 7(MPRs) in lgb;x-syrup
+Maximum dose of medication 10
+continued medication 9/stopped/changed
+Total duration of medication 5 (in days)
+Avg dose of medication 5 (in mg)
+Postnatal complication
+Response to medication 9(Good/partial/no)
+Age of starting of past medication 2(in years)
+Detail of past history 2
+Medication 9 starting dose
+name of Medication 6
+Maximum dose of medication 9
+Side effect of medication 10
+name of Medication 5
+Age of starting past medication 3 (in years)
+Response to medication 14(Good/partial/no)
+onset of side effect post starting med 4 ( in days)
+Side effect of medication 8
+onset of side effect post starting med 8 ( in days)
+total duration of side effect of medication 8 (in days)
+Side effect of medication 9
+onset of side effect post starting med 9 ( in days)
+total duration of side effect of medication 9 (in days)
+onset of side effect post starting med 10 ( in days)
+total duration of side effect of medication 10 (in days)
+Side effect of medication 11
+onset of side effect post starting med 11 ( in days)
+total duration of side effect of medication 11 (in days)
+Side effect of medication 12
+onset of side effect post starting med 12 ( in days)
+total duration of side effect of medication 12 (in days)
+Side effect of medication 13
+onset of side effect post starting med 13 ( in days)
+total duration of side effect of medication 13 (in days)
+onset of side effect post starting med 14 ( in days)
+total duration of side effect of medication 14 (in days)
